@@ -1,2 +1,2 @@
 # Net6PolySerializationLab
- Polytype Serialization lab
+ Polytype serialization lab
